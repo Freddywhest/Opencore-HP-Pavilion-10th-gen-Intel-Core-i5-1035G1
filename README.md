@@ -31,7 +31,6 @@
 ***Not Working:***
 - HDMI
 - Touch screen
-- Dedicated GPU (Disabled in SSDT)
 
 # Note:
 It was tested on MacOS Ventura and it works fine. I haven't tried with others.
